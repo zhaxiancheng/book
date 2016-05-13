@@ -1,0 +1,22 @@
+body {font-size: 12px;line-height:16px}
+a:link { color: #3300FF; 
+     text-decoration: underline;  }    
+    
+a {color: #3300FF; 
+     text-decoration: underline; }
+     
+a:hover { color: #FF6600; 
+           text-decoration: underline; }
+
+A.subnav:link {
+	FONT-SIZE: 12px; COLOR: #330000; LINE-HEIGHT: 155%; TEXT-DECORATION: none
+}
+A.subnav:visited {
+	FONT-SIZE: 12px; COLOR: #330000; LINE-HEIGHT: 155%; TEXT-DECORATION: none
+}
+A.subnav:active {
+	FONT-SIZE: 12px; COLOR: #330000; LINE-HEIGHT: 155%; TEXT-DECORATION: none
+}
+A.subnav:hover {
+	FONT-SIZE: 12px; COLOR: #330000; LINE-HEIGHT: 155%; TEXT-DECORATION: underline
+}
